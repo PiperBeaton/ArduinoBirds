@@ -13,6 +13,8 @@ The code includes
  foreshadow our groom's death.
  - I could not get anything to work for a long time, and if it did work it was inconsistent. We eventually found out that this was due to the breadboard (and potentially
  other components) being broken. This did not cause us to change our deisgn in any way, but it was definitely the biggest problem we had in the whole project. 
+ - During the presentation, the wiring for the arrow did not work consistently. I am going to retape the button and hope that that works for the Digital Media 
+ and Design Showcase.
 
 Overall, we did not change much after our initial brainstorming session. We changed the arrow idea the week after we got our arduino kits, so no actual code had to be
 altered. It was more of a 'We thought this through and do not like this idea in practice' rather than 'An issue arised and we had to change our design'. Besides that,
